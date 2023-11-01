@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+
+        "moduleResolution": "Bundler",
+        "module": "ESNext",
+        "emitDeclarationOnly": true,
+
+        "lib": ["es2022"],
+        "declaration": true,
+
+        "target": "es2022",
+    }
+}

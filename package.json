@@ -1,0 +1,19 @@
+{
+  "name": "concurrency-limit-runner",
+  "version": "1.0.0",
+  "description": "Run async tasks, limiting concurrency",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Dan Fabulich <dan@fabulich.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dfabulich/concurrency-limit-runner"
+  }
+}
